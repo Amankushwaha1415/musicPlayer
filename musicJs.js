@@ -54,7 +54,7 @@ let goBack=document.querySelector("#back");
 let gif=document.querySelector(".gif")
 
 let index=0;
-let pindex=-1;
+let pindex=0;
 
 
 
